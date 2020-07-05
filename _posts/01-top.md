@@ -1,6 +1,6 @@
 ---
 title: "home"
-bg: grey
+bg: 'grey'
 color: black
 style: center
 ---
