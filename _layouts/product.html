@@ -1,0 +1,23 @@
+---
+layout: default
+---
+{% assign products = site.pages | where: "path", "products.html" | first %}
+
+<section class="diagonal hero">
+	<div class="container">
+		{% if products.heading %}
+		<h2><a href="{{ site.baseurl }}/products/">{{ products.heading }}</a> / {{ page.name }}</h2>
+		{% endif %}
+		{% if page.subtitle %}
+			<p class="subtext">{{ page.subtitle }}</p>
+		{% endif %}
+	</div>
+</section>
+
+<section class="diagonal patterned">
+	<div class="container">
+		<div>
+			{{ content }}
+		</div>
+	</div>
+</section>

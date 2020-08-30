@@ -1,0 +1,28 @@
+---
+title: About
+heading: About us
+subtitle: Find out more about Vantibyte, and the expert team behind it
+staff: false
+---
+
+<section class="diagonal patterned">
+	<div class="container">
+		<p>Founded by two engineers, with 15 years of experience at some of the biggest companies in the world, <strong class="vb">Vantibyte</strong> provides modern tools for the modern broadcaster. Our solutions allow small broadcast teams to make output that can sit side by side with TV broadcasting.</p>
+		<br/>
+		<p>These days, most broadcasting isn't done by the big production studios with galleries, directors, producers, and dozens of team members for every production. It's done in bedrooms and home offices - whether it's by a twitch streamer showing their gameplay to the world - or a food blogger livestreaming the creation of their latest dish to their paid subscribers.</p>
+		<br/>
+		<p>This has shown that being together, physically, in one broadcasting gallery is unneeded - <strong class="vb">Vantibyte</strong> provides the tools to let your team contribute, no matter where in the world they are located.</p>
+	</div>
+</section>
+
+{% if page.staff %}
+<section class="diagonal alternate">
+	<div class="container">
+		<ul class="image-grid">
+			{% for member in site.staff_members %}
+				<li>{% include staff-member.html member=member %}</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>
+{% endif %}

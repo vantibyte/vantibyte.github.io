@@ -1,0 +1,24 @@
+---
+title: Products
+heading: Our Tools
+subtitle: See the tools we provide to our customers.
+---
+
+<section class="diagonal patterned">
+	<div class="container">
+		<ul class="image-grid">
+			{% for product in site.products %}
+				<li class="square-block">
+					<a href="{{ site.baseurl }}{{ product.url }}">
+						<div class="details">
+							<div class="name">{{ product.name }}</div>
+							<div class="text">{{ product.description }}</div>
+						</div>
+					</a>
+				</li>
+			{% endfor %}
+			<li class="filler"></li>
+			<li class="filler"></li>
+		</ul>
+	</div>
+</section>

@@ -1,0 +1,26 @@
+- title: Pages
+  links:
+    - name: Home
+      link: /
+    - name: About
+      link: /about/
+    - name: Products
+      link: /products/
+    - name: Contact
+      link: /contact/
+    - name: Documentation
+      link: https://docs.vantibyte.com
+- title: Social
+  links:
+    - name: Twitter
+      link: https://twitter.com/vantibyte/
+      social_icon: Twitter
+      new_window: true
+    - name: Twitch
+      link: https://twitch.tv/vantibyte
+      social_icon: Twitch
+      new_window: true
+    - name: Discord
+      link: https://discord.gg/BBRsR84
+      social_icon: Discord
+      new_window: true

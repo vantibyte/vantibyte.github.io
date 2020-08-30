@@ -1,1 +1,65 @@
 title: Vantibyte
+url: "https://vantibyte.com"
+baseurl:
+google_analytics_key:
+
+description: Vantibyte Website
+
+author:
+  name: Vantibyte
+  email:
+  twitter: vantibyte
+
+timezone: Etc/UTC
+
+collections:
+  products:
+    output: true
+  clients:
+    output: false
+
+permalink: pretty
+
+plugins:
+  - "jekyll-seo-tag"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+defaults:
+  - scope:
+      path: ""
+      type: "clients"
+    values:
+      layout: "client"
+      _options:
+        image_path:
+          width: 2000
+          height: 2000
+  - scope:
+      path: ""
+      type: "products"
+    values:
+      layout: "product"
+      _options:
+        image_path:
+          width: 2000
+          height: 2000
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "index.html"
+      type: "pages"
+    values:
+      layout: "default"
+
+social_icons:
+  - Twitter
+  - Discord
+  - Twitch
