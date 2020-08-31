@@ -63,3 +63,11 @@ social_icons:
   - Twitter
   - Discord
   - Twitch
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
