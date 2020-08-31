@@ -8,8 +8,12 @@
       link: /products/
     - name: Contact
       link: /contact/
+- title: '&nbsp;'
+  links:
     - name: Documentation
       link: https://docs.vantibyte.com
+    - name: Branding
+      link: /branding/
 - title: Social
   links:
     - name: Twitter
