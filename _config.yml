@@ -50,6 +50,10 @@ defaults:
           height: 2000
   - scope:
       path: ""
+    values:
+      image: /images/vblogo.png
+  - scope:
+      path: ""
       type: "pages"
     values:
       layout: "page"
