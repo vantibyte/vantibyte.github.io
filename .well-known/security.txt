@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: https://vantibyte.com/contact/
+Contact: mailto:security@vantibyte.com
+Expires: Thu, 31 Dec 2020 23:59:59 +0000
+Preferred-Languages: en
+Canonical: https://vantibyte.com/.well-known/security.txt
+Policy: https://vantibyte.com/security-policy/
+
+# This file is signed with the public key of a member of Vantibyte staff
+# Please do not use this key to communicate with Vantibyte on security issues!
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCAAQBQJfZOIvCRCx/vJHJIKhvQAAjQAQAFYX07Tcv3rq21Xs/fs1oRks
+zYWFEPzmVbmd7zi3dCpU6ZK9Wu69HGkXky/YRnsVl75rnlvo4BNvsgdHvCdE2AT1
+4zry01A7ZJR27/U/A7xR7K4e/PaluQ0p8mbsZopKyZBODMeRUpqqln3kokSK50A0
+OAQTLgF5WjvFxn4olxN8Kfo20GCu++Xb25SvBRhJhH7vgt0OCyCIr7zCahdz2e2u
+QrFrmq9EcPJ0zn1seHzo+Rhm/p7VNxIcPrrXV0OT+a2jEUVMKBQmOF6dCLH8ipid
+FG14CRTv0d6fwxCMU3aJlKztcu0HvD6J331BI6gU7MRGJ280dNxHrfgNHXxex1ne
+LpkXwuCN7GiTtZhmKuZ44sxBISHrzITCWewD14skMlDOKjyE3L8z71YXZ2W+sy7Y
+W5v+Pa0HaRWfw5RaGG5ISJaDZB4CgMDXrVYbnqeOXTaDTlHvGj9U/xgERxvB0Hsz
+IDvQE/m+CPZSPKZk/ggML6aIIpLKmEVyqmnYPt7s++QKhabQ4Fv2Tq+S4RDzWyjH
+Ocx0dZto6btrDJaxFsKUt/yuLuPaovbY3yFCxrH3SDwkJ5mKzGPFT0t7fJ/fRUno
+c5D4u8zK/MLdcnVYh/TC1JcCRDSh+v+OZLOJEcWscU8c+Gx6Ipnmv58m5PSlNcVF
+X4dHYcQvr08BCEx+Hyy0
+=u4p/
+-----END PGP SIGNATURE-----
