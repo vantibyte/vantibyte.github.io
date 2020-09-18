@@ -12,6 +12,7 @@ author:
 
 timezone: Etc/UTC
 
+# Should we generate the collections from markdown?
 collections:
   products:
     output: true
@@ -22,6 +23,7 @@ permalink: pretty
 
 plugins:
   - "jekyll-seo-tag"
+  - "jekyll-sitemap"
 
 exclude:
   - Gemfile
@@ -30,6 +32,7 @@ exclude:
   - LICENCE
 
 defaults:
+  # Set these pages to use a specific layout
   - scope:
       path: ""
       type: "clients"
@@ -48,15 +51,23 @@ defaults:
         image_path:
           width: 2000
           height: 2000
+  # Set this logo as the default for cards/embeds/opengraph
   - scope:
       path: ""
     values:
       image: /images/vblogo.png
+  # Disable images being added to the sitemap
+  - scope:
+      path: "images/*"
+    values:
+      sitemap: false
+  # Set pages to use the "page" layout by default
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
+  # Set the index page to use the default layout
   - scope:
       path: "index.html"
       type: "pages"
@@ -68,6 +79,7 @@ social_icons:
   - Discord
   - Twitch
 
+# Do some minification
 compress_html:
   clippings: all
   comments: all
