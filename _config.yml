@@ -31,6 +31,9 @@ exclude:
   - README.md
   - LICENCE
 
+include: 
+  - ".well-known"
+
 defaults:
   # Set these pages to use a specific layout
   - scope:
