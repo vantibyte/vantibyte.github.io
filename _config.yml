@@ -64,6 +64,11 @@ defaults:
       path: "images/*"
     values:
       sitemap: false
+  # Set .well-known to use no layout
+  - scope:
+      path: ".well-known/*"
+    values:
+      layout: "none"
   # Set pages to use the "page" layout by default
   - scope:
       path: ""
