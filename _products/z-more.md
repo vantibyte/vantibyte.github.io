@@ -1,5 +1,6 @@
 ---
 name: And more
+title: More Products
 category: misc
 description: We're always adding more products, check back here regularly
 subtitle: 
