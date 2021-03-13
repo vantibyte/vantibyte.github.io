@@ -23,4 +23,4 @@ An esports production company has only one spectator slot available in their Rai
 
 They get their in game observer to stream to {% include strongblue.html text="Vantibyte" %}'s Video solution. All other members on the team are able to watch it in real time, providing their commentary straight into the production desk in perfect sync with the game feed that Twitch.tv viewers see.
 
-{% include footnote.html text="The Video service by it's very nature uses a significant amount of bandwidth. Viewers with poor connections, or watching a large number of feeds, may experience difficulties." %}
+{% include footnote.html text="The Video service by it's very nature uses a significant amount of bandwidth. Viewers with poor connections, or watching a large number of feeds, may experience difficulties. This is similar behaviour to other providers of live-video over IP such as TwitchTV and YouTube." %}
