@@ -2,6 +2,17 @@ strong.vb {
     color: $secondary-brand-color;
 }
 
+span.footnote {
+    font-size: smaller;
+    color: #555;
+}
+
+div.footnoteborder {
+    width: 10em;
+    border-top: 2px solid;
+    border-color: $secondary-brand-color;
+}
+
 .patterned ul {
     color: whitesmoke;
 }
