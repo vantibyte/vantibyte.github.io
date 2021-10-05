@@ -12,6 +12,8 @@
       link: https://docs.vantibyte.com
     - name: Branding
       link: /branding/
+    - name: Payment Providers
+      link: /payment-providers/
 - title: Social
   links:
     - name: Twitter
