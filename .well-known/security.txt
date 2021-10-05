@@ -6,7 +6,7 @@ Hash: SHA512
 
 Contact: https://vantibyte.com/contact/
 Contact: mailto:security@vantibyte.com
-Expires: Sat, 31 Jul 2021 23:59:59 +0000
+Expires: Sat, 26 Mar 2022 23:59:59 +0000
 Preferred-Languages: en
 Canonical: https://vantibyte.com/.well-known/security.txt
 Policy: https://vantibyte.com/security-policy/
@@ -15,11 +15,11 @@ Policy: https://vantibyte.com/security-policy/
 # Please do not use this key to communicate with Vantibyte on security issues!
 -----BEGIN PGP SIGNATURE-----
 
-wsBcBAABCgAGBQJgKTyQAAoJECjvEY+IYftCz5YIALGeeGU4Pefz+tYVVXftBXtz
-YFjiH1/aIeqVxNUN8Op9iPYHFv2j6mtYKJMb46mFRH0efMEXXrCcH/T2ai9ehGd/
-Sq52BfeoCHs6KkOPy26IuP+24tLrcC8gcgAOwKuN/QEK4Bgq1EOGyr05b6Ql3ybU
-r+fa3hpmQB8fWi14Hy/hFDPS7+eJLvvZu20q74s99XIbLfiwXzGFy7LTWDJLguMN
-XwSYlCh1EVCFahmsbU/wbyuCrDD5SxBrFsREbjPEsrfrfc0ZJ+LtoR8EuwpG3Bh8
-wJRHbmeNC+zUKoS/H8OpCm0bPEA6Vl42E9/c99OcCDFtahtKh9fHt995vRB6YKQ=
-=St+2
+wsBcBAABCgAGBQJhXH40AAoJECjvEY+IYftCfnYIAKDAR+8C59UfeXsS0tE5/zWz
+bNp01/viVmefbqKFXAHZAvc4SBGxnuaxUbR+a1ZAgbiOCVM8AUX36tY7va+FaUWj
+5M8zHJj8Gv2OTCVlwiGSjR5MaZVaMfE6p4mNDlMfes/BkAFL8OEffktIzLebTg1j
++MwkbjlgTro9OrZym6EgBaDGJJsYf9w+0HuSuHUlkioB9/9F37xsajczpZeGGfRY
+rfvbt3z94/9yjKKW7TZoYa06iKEW8fPDa6+UMt+iga4nkZRntxra+uKADF39VzcN
+M3SkJrJ6I5PXqJhEqMoSfbc4Zc5XeCAD2mGaVuKt2YEGWyhwvcWJkWu5004L8Og=
+=hXuY
 -----END PGP SIGNATURE-----
