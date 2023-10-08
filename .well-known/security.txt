@@ -2,11 +2,11 @@
 permalink: .well-known/security.txt
 ---
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
 Contact: https://vantibyte.com/contact/
 Contact: mailto:security@vantibyte.com
-Expires: Sat, 26 Mar 2022 23:59:59 +0000
+Expires: Sat, 29 June 2024 23:59:59 +0000
 Preferred-Languages: en
 Canonical: https://vantibyte.com/.well-known/security.txt
 Policy: https://vantibyte.com/security-policy/
@@ -15,11 +15,17 @@ Policy: https://vantibyte.com/security-policy/
 # Please do not use this key to communicate with Vantibyte on security issues!
 -----BEGIN PGP SIGNATURE-----
 
-wsBcBAABCgAGBQJhXH40AAoJECjvEY+IYftCfnYIAKDAR+8C59UfeXsS0tE5/zWz
-bNp01/viVmefbqKFXAHZAvc4SBGxnuaxUbR+a1ZAgbiOCVM8AUX36tY7va+FaUWj
-5M8zHJj8Gv2OTCVlwiGSjR5MaZVaMfE6p4mNDlMfes/BkAFL8OEffktIzLebTg1j
-+MwkbjlgTro9OrZym6EgBaDGJJsYf9w+0HuSuHUlkioB9/9F37xsajczpZeGGfRY
-rfvbt3z94/9yjKKW7TZoYa06iKEW8fPDa6+UMt+iga4nkZRntxra+uKADF39VzcN
-M3SkJrJ6I5PXqJhEqMoSfbc4Zc5XeCAD2mGaVuKt2YEGWyhwvcWJkWu5004L8Og=
-=hXuY
+wsFcBAEBCAAQBQJlIwjYCRCx/vJHJIKhvQAAYFUQAHx3D/fFxGFGk1VoGHBlC9kT
+9gXa2CAUC1rYxNklOr2nYqAA2XtcLS7REaRaSorhVtoZLIAAcR7j15wqFLec6ov9
+ZJ0GlgfJIyKz4y9zTE389o3VjahoQeun2o6ZknkxCTxIM1nox5ctmwd92l1g/bjF
+XurI0h8OFeeBj6f2xDGD46SYnvUh4xN9kWAz0eA9B/a6m5adTssVq1lD1307U+wF
+gYVP2Br/4PSqgmbQ4qKfL/R2p9vUsSwgY7iKSfR10yDxa1VAV+SGTJv7dRKkn+Uq
+x6oIw+ce/7KEopxAhHWj4K6pEO9RNjfDr/IrXFoZAUSPeOU1nKTByvI1yNNY9WgK
+vWq9Imsca9YLt1VtRJbjBaf7QoCvwMDyn430rHxYIedMz4wOlGWwfM6QyP1h393H
+1ZA54Za1kg0IE4gSDyse8gsAx8FamLkv2YXFlZqJNfqPi11d25sySphWE4O+JYug
+yfuxV8TIgMfRzjfVyaFv+p5+Vvp08VPFy6PHlrtx0p5BxA8IEmynuUWSh9ssyZWy
+CqHaygaAhdmKuVkaHp+8n/tWcdQUiG+R2Yx4IBXZY6xh1MykPvnUefzrWEezWEjH
+up41sSM7EK5oBi937a4knW2OfRbNPGoUBYlDMqWBFHQOVwCsMiAsDGxE5Z4CoGGz
+UiDXDxg7VpE/yf3S3Omp
+=mxuR
 -----END PGP SIGNATURE-----
