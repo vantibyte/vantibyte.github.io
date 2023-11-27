@@ -21,6 +21,6 @@ Another option provided by our service is to have synchronised playback for all 
 
 An esports production company has only one spectator slot available in their Rainbow Six Siege game. They need to be able to share the in game camera with their casters, desk analysts and of course, the audience all in real time.
 
-They get their in game observer to stream to {% include strongblue.html text="Vantibyte" %}'s Video solution. All other members on the team are able to watch it in real time, providing their commentary straight into the production desk in perfect sync with the game feed that Twitch.tv viewers see.
+They get their in game observer to stream to {% include strongblue.html text="Vantibyte" %}'s Video solution. All other members on the team are able to watch it in real time, providing their commentary straight into the production desk in perfect sync with the game feed that Twitch viewers see.
 
-{% include footnote.html text="The Video service by it's very nature uses a significant amount of bandwidth. Viewers with poor connections, or watching a large number of feeds, may experience difficulties. This is similar behaviour to other providers of live-video over IP such as TwitchTV and YouTube." %}
+{% include footnote.html text="The Video service by it's very nature uses a significant amount of bandwidth. Viewers with poor connections, or watching a large number of feeds, may experience difficulties. This is similar behaviour to other providers of live-video over IP such as Twitch and YouTube." %}
