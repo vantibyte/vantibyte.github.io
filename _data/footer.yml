@@ -16,9 +16,13 @@
       link: /payment-providers/
 - title: Social
   links:
-    - name: Twitter
-      link: https://twitter.com/vantibyte/
-      social_icon: Twitter
+    # - name: Twitter
+    #   link: https://twitter.com/vantibyte
+    #   social_icon: Twitter
+    #   new_window: true
+    - name: Reaired
+      link: https://reaired.com/@vantibyte
+      social_icon: Reaired
       new_window: true
     - name: Twitch
       link: https://twitch.tv/vantibyte
